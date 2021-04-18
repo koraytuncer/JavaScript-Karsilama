@@ -1,1 +1,1 @@
-# JavaScript
+# Patika.Dev JavaScript Saat Ödevi
